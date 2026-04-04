@@ -131,6 +131,7 @@ A taxonomy of post-training approaches for **LLMs**, categorized into Fine-tunin
 * Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling [[Paper]](https://arxiv.org/abs/2502.06703) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * Agentic Reward Modeling: Integrating Human Preferences with Verifiable Correctness Signals for Reliable Reward Systems [[Paper]](https://arxiv.org/abs/2502.19328) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * Guided by Gut: Efficient Test-Time Scaling with Reinforced Intrinsic Confidence [[Paper]](https://arxiv.org/abs/2505.20325) ![](https://img.shields.io/badge/arXiv-2025.05-red)
+* LLMs Meet Finance: Fine-Tuning Foundation Models for the Open FinLLM Leaderboard [[Paper]](https://arxiv.org/abs/2504.13125) ![](https://img.shields.io/badge/arXiv-2025.04-red)
 ---
 
 ## Policy Optimization
