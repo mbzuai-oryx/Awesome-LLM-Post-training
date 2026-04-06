@@ -273,6 +273,7 @@ A taxonomy of post-training approaches for **LLMs**, categorized into Fine-tunin
 
 - **"AutoGPT: LLMs for Autonomous RL Agents"** - OpenAI (2023) [[Paper](https://arxiv.org/abs/2304.03442)]  
 - **"Barkour: Benchmarking LLM-Augmented RL"** - Wu et al. (2023) [[Paper](https://arxiv.org/abs/2305.12377)]  
+* Colon-X: Advancing Intelligent Colonoscopy from Multimodal Understanding to Clinical Reasoning (Medical Understanding & Reasoning) [[Paper]](https://arxiv.org/abs/2512.03667) ![](https://img.shields.io/badge/arXiv-2025.12-red) [[Code]](https://github.com/ai4colonoscopy/Colon-X)
 * Big-Math: A Large-Scale, High-Quality Math Dataset for Reinforcement Learning in Language Models [[Paper]](https://arxiv.org/abs/2502.17387) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models [[Paper]](https://arxiv.org/abs/2501.03124) ![](https://img.shields.io/badge/arXiv-2025.01-red)
 * MR-Ben: A Meta-Reasoning Benchmark for Evaluating System-2 Thinking in LLMs [[Paper]](https://openreview.net/forum?id=GN2qbxZlni) ![](https://img.shields.io/badge/NeurIPS-2024-blue)
