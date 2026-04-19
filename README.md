@@ -310,7 +310,9 @@ A taxonomy of post-training approaches for **LLMs**, categorized into Fine-tunin
 
 ## 🔗 Other Resources  
 
+- **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
 - [LLM for RL Workshop at NeurIPS 2023](https://neurips.cc)  
+- **[Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge)** - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 - [OpenAI Research Blog on RLHF](https://openai.com/research)  
 
 ---
