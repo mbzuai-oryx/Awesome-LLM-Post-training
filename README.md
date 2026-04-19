@@ -52,6 +52,9 @@ A taxonomy of post-training approaches for **LLMs**, categorized into Fine-tunin
 
 ## 🔍 Survey  
 
+
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 | Title | Publication Date | Link |
 |---------------------------------|----------------|---------------------------------|
 | A Survey on Bridging VLMs and Synthetic Data | 16 May 2025 | [OpenReview](https://openreview.net/pdf?id=ThjDCZOljE) |
