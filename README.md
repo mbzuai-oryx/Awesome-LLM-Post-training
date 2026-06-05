@@ -354,3 +354,8 @@ Please raise any issues or questions [here](https://github.com/mbzuai-oryx/Aweso
 [<img src="Images/IVAL_logo.png" width="200" height="100">](https://www.ival-mbzuai.com)
 [<img src="Images/Oryx_logo.png" width="100" height="100">](https://github.com/mbzuai-oryx)
 [<img src="Images/MBZUAI_logo.png" width="360" height="85">](https://mbzuai.ac.ae)
+
+
+## Benchmarks
+
+- [REFUTE](https://huggingface.co/datasets/BGPT-OFFICIAL/refute) — Scientific critique & epistemic calibration on recent science summaries (Apache-2.0). [Leaderboard](https://huggingface.co/spaces/BGPT-OFFICIAL/refute-leaderboard) · [Technical report](https://huggingface.co/datasets/BGPT-OFFICIAL/refute/blob/main/TECHNICAL_REPORT.md) · [Integrators](https://huggingface.co/datasets/BGPT-OFFICIAL/refute/blob/main/INTEGRATORS.md)
