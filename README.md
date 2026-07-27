@@ -317,7 +317,8 @@ A taxonomy of post-training approaches for **LLMs**, categorized into Fine-tunin
 ## 🔗 Other Resources  
 
 - [LLM for RL Workshop at NeurIPS 2023](https://neurips.cc)  
-- [OpenAI Research Blog on RLHF](https://openai.com/research)  
+- [OpenAI Research Blog on RLHF](https://openai.com/research)
+- [AI Models Catalog](https://github.com/i-need-token/ai-models) — Structured YAML catalog of 4,587+ AI models with 1,306 reasoning models, pricing, context windows, and capabilities  
 
 ---
 
