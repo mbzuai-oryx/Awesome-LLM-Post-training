@@ -316,6 +316,7 @@ A taxonomy of post-training approaches for **LLMs**, categorized into Fine-tunin
 
 ## 🔗 Other Resources  
 
+- [Awesome LLM Reasoning Roadmap](https://github.com/StaryMoon/awesome-llm-reasoning-roadmap) - A visual roadmap and searchable paper atlas covering Chain-of-Thought, test-time scaling, reasoning RL, data recipes, and benchmark stress tests.
 - [LLM for RL Workshop at NeurIPS 2023](https://neurips.cc)  
 - [OpenAI Research Blog on RLHF](https://openai.com/research)  
 
