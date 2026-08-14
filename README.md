@@ -142,6 +142,7 @@ A taxonomy of post-training approaches for **LLMs**, categorized into Fine-tunin
 
 ## Policy Optimization
 
+* Learning from the Self-future: On-policy Self-distillation for dLLMs [[Paper]](https://arxiv.org/abs/2606.18195) [[Code]](https://github.com/xingzhejun/d-opsd-code) ![](https://img.shields.io/badge/arXiv-2026.06-red)
 * Squeeze the Soaked Sponge: Efficient Off-policy Reinforcement Finetuning for Large Language Model [[Paper]](https://arxiv.org/abs/2507.06892) ![](https://img.shields.io/badge/arXiv-2025.07-red)
 
 ---
