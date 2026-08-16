@@ -325,7 +325,7 @@ A taxonomy of post-training approaches for **LLMs**, categorized into Fine-tunin
 
 Contributions are welcome! If you have relevant papers, code, or insights, feel free to submit a pull request.  
 
-[![Star History Chart](https://api.star-history.com/svg?repos=mbzuai-oryx/Awesome-LLM-Post-training&type=Timeline)](https://www.star-history.com/#mbzuai-oryx/Awesome-LLM-Post-training&Timeline)
+[![Star History Chart](https://star-history.dera.page/svg?repos=mbzuai-oryx/Awesome-LLM-Post-training&type=Timeline)](https://star-history.dera.page/#mbzuai-oryx/Awesome-LLM-Post-training&Timeline)
 
 ## Citation
 
@@ -347,7 +347,7 @@ If you find our work useful or use it in your research, please consider citing:
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 ## Star History Chart
-[![Star History Chart](https://api.star-history.com/svg?repos=mbzuai-oryx/Awesome-LLM-Post-training&type=date&legend=top-left)](https://www.star-history.com/#mbzuai-oryx/Awesome-LLM-Post-training&type=date&legend=top-left)
+[![Star History Chart](https://star-history.dera.page/svg?repos=mbzuai-oryx/Awesome-LLM-Post-training&type=date&legend=top-left)](https://star-history.dera.page/#mbzuai-oryx/Awesome-LLM-Post-training&type=date&legend=top-left)
 
 
 
