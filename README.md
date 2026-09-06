@@ -116,6 +116,7 @@ A taxonomy of post-training approaches for **LLMs**, categorized into Fine-tunin
 
 ## 🏆 Reward Learning (Process Reward Models)
 
+* Reinforcement Learning with Evolving Rubrics as Rewards for Audio Reasoning [[Paper]](https://arxiv.org/abs/2608.02831) ![](https://img.shields.io/badge/arXiv-2026.08-red)
 * PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models. [[Paper]](https://arxiv.org/abs/2501.03124) ![](https://img.shields.io/badge/arXiv-2025.01-red)
 * ReARTeR: Retrieval-Augmented Reasoning with Trustworthy Process Rewarding [[Paper]](https://arxiv.org/abs/2501.07861) ![](https://img.shields.io/badge/arXiv-2025.01-red)
 * The Lessons of Developing Process Reward Models in Mathematical Reasoning. [[Paper]](https://arxiv.org/abs/2501.07301) ![](https://img.shields.io/badge/arXiv-2025.01-red)
