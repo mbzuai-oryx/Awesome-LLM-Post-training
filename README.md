@@ -138,6 +138,7 @@ A taxonomy of post-training approaches for **LLMs**, categorized into Fine-tunin
 * Agentic Reward Modeling: Integrating Human Preferences with Verifiable Correctness Signals for Reliable Reward Systems [[Paper]](https://arxiv.org/abs/2502.19328) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * Guided by Gut: Efficient Test-Time Scaling with Reinforced Intrinsic Confidence [[Paper]](https://arxiv.org/abs/2505.20325) ![](https://img.shields.io/badge/arXiv-2025.05-red)
 * LLMs Meet Finance: Fine-Tuning Foundation Models for the Open FinLLM Leaderboard [[Paper]](https://arxiv.org/abs/2504.13125) ![](https://img.shields.io/badge/arXiv-2025.04-red)
+* Steer, Don't Solve: Training Small Critic Models for Large Code Agents [[Paper]](https://arxiv.org/abs/2606.21811) ![](https://img.shields.io/badge/arXiv-2026.06-red) [[Code]](https://github.com/shubhamrgandhi/critic-training)
 ---
 
 ## Policy Optimization
