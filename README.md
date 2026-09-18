@@ -91,6 +91,7 @@ A taxonomy of post-training approaches for **LLMs**, categorized into Fine-tunin
 ---
 
 ## 🤖 LLMs-in-RL  
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — capture the real LLM request/response stream and replay it offline.
 
 * Vision-Zero: Scalable VLM Self-Improvement via Strategic Gamified Self-Play [[Paper]](https://www.arxiv.org/abs/2509.25541) ![](https://img.shields.io/badge/arXiv-2025.09-red)
 * Satori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search [[Paper]](https://arxiv.org/abs/2502.02508) ![](https://img.shields.io/badge/arXiv-2025.02-red)
