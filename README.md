@@ -142,6 +142,7 @@ A taxonomy of post-training approaches for **LLMs**, categorized into Fine-tunin
 
 ## Policy Optimization
 
+* TagPR: Tag-Guided Process Supervision for Personalization Reasoning in Large Language Models [[Paper]](https://arxiv.org/abs/2509.23140) ![](https://img.shields.io/badge/EMNLP-2026-blue)
 * Squeeze the Soaked Sponge: Efficient Off-policy Reinforcement Finetuning for Large Language Model [[Paper]](https://arxiv.org/abs/2507.06892) ![](https://img.shields.io/badge/arXiv-2025.07-red)
 
 ---
