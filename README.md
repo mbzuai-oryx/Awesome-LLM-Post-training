@@ -142,6 +142,7 @@ A taxonomy of post-training approaches for **LLMs**, categorized into Fine-tunin
 
 ## Policy Optimization
 
+* Chunks as Arms: Multi-Armed Bandit-Guided Sampling for Long-Context LLM Preference Optimization [[Paper]](https://aclanthology.org/2026.acl-long.161/) ![](https://img.shields.io/badge/ACL-2026-blue)
 * Squeeze the Soaked Sponge: Efficient Off-policy Reinforcement Finetuning for Large Language Model [[Paper]](https://arxiv.org/abs/2507.06892) ![](https://img.shields.io/badge/arXiv-2025.07-red)
 
 ---
