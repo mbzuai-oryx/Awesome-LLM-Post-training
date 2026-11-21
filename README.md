@@ -92,6 +92,7 @@ A taxonomy of post-training approaches for **LLMs**, categorized into Fine-tunin
 
 ## 🤖 LLMs-in-RL  
 
+* MultiAgent-OPD: End-to-End Training of Hierarchical Multi-Agent Systems with On-Policy Distillation [[Paper]](https://arxiv.org/abs/2610.23234) ![](https://img.shields.io/badge/arXiv-2026.10-red)
 * Vision-Zero: Scalable VLM Self-Improvement via Strategic Gamified Self-Play [[Paper]](https://www.arxiv.org/abs/2509.25541) ![](https://img.shields.io/badge/arXiv-2025.09-red)
 * Satori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search [[Paper]](https://arxiv.org/abs/2502.02508) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * DeepScaleR: Surpassing O1-Preview with a 1.5B Model by Scaling RL [[Paper]](https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2) ![](https://img.shields.io/badge/Notion-2025.02-red)
