@@ -142,6 +142,7 @@ A taxonomy of post-training approaches for **LLMs**, categorized into Fine-tunin
 
 ## Policy Optimization
 
+* SPADER: Step-wise Peer Advantage with Diversity-Aware Exploration Rewards for Multi-Answer Question Answering [[Paper]](https://aclanthology.org/2026.emnlp-main.894/) ![](https://img.shields.io/badge/EMNLP-2026-blue)
 * Squeeze the Soaked Sponge: Efficient Off-policy Reinforcement Finetuning for Large Language Model [[Paper]](https://arxiv.org/abs/2507.06892) ![](https://img.shields.io/badge/arXiv-2025.07-red)
 
 ---
