@@ -110,6 +110,7 @@ A taxonomy of post-training approaches for **LLMs**, categorized into Fine-tunin
 * InfAlign: Inference-aware language model alignment [[Paper]](https://arxiv.org/abs/2412.19792) ![](https://img.shields.io/badge/arXiv-2024.12-red)
 * LIMR: Less is More for RL Scaling [[Paper]](https://arxiv.org/abs/2502.11886) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * A Survey on Feedback-based Multi-step Reasoning for Large Language Models on Mathematics [[Paper]](https://arxiv.org/abs/2502.143) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* RLTF: Reinforcement Learning from Unit Test Feedback [[Paper]](https://arxiv.org/abs/2307.04349) ![](https://img.shields.io/badge/TMLR-2023-blue) [[Code]](https://github.com/Zyq-scut/RLTF)
  
 
 ---
